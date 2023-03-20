@@ -137,3 +137,15 @@
       width: 12rem;
     }
   }
+
+  @media (max-width: 400px) {
+    h1 {
+      font-size: 1rem;
+      top: 15%;
+    }
+  
+    .btn {
+      padding: 1rem;
+      width: 8rem;
+    }
+  }
